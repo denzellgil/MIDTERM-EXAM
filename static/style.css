@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    height: 800px;
+    background-color: green;
+    background-image: linear-gradient(to bottom left,#52e3c9, #55e6c9,#64e4bc, #6fe9c1,
+    #83ebbc, #a0efb5, #b9f4b4, #c6f4ab)
+}
